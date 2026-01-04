@@ -17,6 +17,7 @@ An end-to-end credit risk analytics project that predicts whether a borrower wil
 5. Power BI dashboard for insights
 
 ## 📊 Power BI Dashboard
+![Power BI Dashboard](dashboard.png)
 Key insights:
 - Low credit score borrowers show higher default risk
 - High EMI-to-Income ratio strongly correlates with default
@@ -25,4 +26,5 @@ Key insights:
 ## 🎯 Business Use Case
 - Banking credit risk assessment
 - FinTech lending systems
+
 
